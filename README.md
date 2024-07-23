@@ -27,12 +27,12 @@ Este projeto é um jogo de Sudoku desenvolvido em Python usando a biblioteca Tki
 Siga as etapas abaixo:
 1. No terminal, clone o projeto:
     ```
-    git clone <link-rep>
+    git clone https://github.com/Emmanuelly-Silva/sudoku-game.git
     ```
 
 2. Mude para o diretório do projeto clonado:
     ```
-    cd <nome-rep>
+    cd sudoku-game
     ```
 
 3. Execute o comando:
