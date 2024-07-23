@@ -19,6 +19,7 @@ Este projeto é um jogo de Sudoku desenvolvido em Python usando a biblioteca Tki
 
 ## Layout da aplicação
 
+![](https://github.com/user-attachments/assets/efcad22b-264c-482f-9eda-eba84ade2a09)
 
 
 ## Acesso ao projeto
@@ -40,8 +41,10 @@ Siga as etapas abaixo:
     ```
 
 ## Tecnologias utilizadas
+<p>
 <img src="https://img.shields.io/badge/Python-3.11.1-blue?style=for-the-badge&logo=python&logoColor=yellow">
 <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge&logo=python&logoColor=yellow">
+</p>
 
 ## Licença
 The [MIT License]() (MIT)
